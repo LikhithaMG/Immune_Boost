@@ -1,0 +1,29 @@
+#one{
+    height:70px;
+    background-color:rgb(170, 248, 170);
+    color:black;
+    font-size:40px;
+    font-weight: bold;
+    padding-top:20px;
+    border:2px solid black;
+}
+#vaccine{
+    height:30px;
+    width:130px;
+    float:right;
+    font-size:15px;
+}
+#th1{
+    border:2px solid black;
+    font-size:30px;
+    background-color: rgb(108, 151, 108);
+}
+#btn{
+    height:30px;
+    width:100px;
+}
+#td1{
+    border:2px solid black;
+    font-size:20px;
+    background-color: rgb(160, 175, 160);
+}
